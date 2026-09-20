@@ -1,7 +1,9 @@
 # 茗宝官网 Demo
 
-[打开演示](https://martinmurraynice-del.github.io/mingbao-brand-demo/)
+[打开在线演示](https://martinmurraynice-del.github.io/mingbao-brand-demo/)
 
-品牌官网设计演示：茗宝故事、产品矩阵、创新与安全、合作联系。部分图片为生成式应用示意。
+2026-09-19 官网升级版，包含完整站点页面、产品与新闻搜索、视频和交互动效。
 
-本仓库仅包含编译后的静态演示文件，由 GitHub Pages 从 main 分支发布。
+本仓库包含可直接发布的静态演示文件，GitHub Pages 从 main 分支根目录发布。页面和资源已适配仓库子路径；无需安装依赖。
+
+此站为设计演示，非官方网站。
